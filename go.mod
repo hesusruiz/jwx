@@ -1,4 +1,4 @@
-module github.com/hesusruiz/jwx/v2
+module github.com/lestrrat-go/jwx/v2
 
 go 1.16
 
