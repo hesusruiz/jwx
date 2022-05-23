@@ -34,6 +34,7 @@ Supported signature algorithms:
 
 * Note 1: Experimental
 * Note 2: Experimental, and must be toggled using `-tags jwx_es256k` build tag
+* Note 3 (JRM): Enabled by default in special branch
 
 # SYNOPSIS
 

@@ -1,5 +1,3 @@
-// +build jwx_es256k
-
 package jwa_test
 
 import (
